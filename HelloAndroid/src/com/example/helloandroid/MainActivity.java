@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		Log.v("tag", "This is a test");
+		Log.v("tag", "This is another test");
 	}
 
 	@Override
